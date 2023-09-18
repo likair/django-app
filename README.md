@@ -26,6 +26,6 @@ python manage.py runserver
 
 - http://127.0.0.1:8000/admin/: Admin panel
 - http://127.0.0.1:8000/polls/: Polls list
-- http://127.0.0.1:8000/polls/<poll_id>/result/: Poll results
+- http://127.0.0.1:8000/polls/<poll_id>/results/: Poll results
 - http://127.0.0.1:8000/polls/<poll_id>/vote/: Vote for a poll
 
